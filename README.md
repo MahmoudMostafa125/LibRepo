@@ -4,7 +4,8 @@
 # Integration
 
 
-### Add this dependency to your project
+### Add this dependency to  ```java build.gradle(Module: app) ```
+
 ```java
 allprojects {
 		repositories {
@@ -15,7 +16,7 @@ allprojects {
 ```
 
 
-### And add this to gradel
+### And add this to   ```java build.gradle(project:)```
 
 ```java
 dependencies {
