@@ -21,6 +21,6 @@ allprojects {
 
 ```java
 dependencies {
-	        implementation 'com.github.MahmoudMostafa125:LibRepo:Tag'
+	        implementation 'com.github.MahmoudMostafa125:LibRepo:0.1.0'
 	}
  ``` 
