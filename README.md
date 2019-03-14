@@ -5,7 +5,7 @@ library for log message to Your App
 
 
 Add this dependency to your project
-```gradel
+```java
 allprojects {
 		repositories {
 			...
@@ -17,7 +17,7 @@ allprojects {
 
 ## And add this 
 
-```gradel
+```java
 dependencies {
 	        implementation 'com.github.MahmoudMostafa125:LibRepo:Tag'
 	}
