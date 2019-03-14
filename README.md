@@ -1,5 +1,6 @@
 ## library for log message to Your App
 
+[![](https://jitpack.io/v/MahmoudMostafa125/LibRepo.svg)](https://jitpack.io/#MahmoudMostafa125/LibRepo)
 
 # Integration
 
