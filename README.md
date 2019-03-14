@@ -4,9 +4,9 @@
 # Integration
 
 
-### Add this dependency to  ```java build.gradle(Module: app) ```
+### Add this dependency to  ``` build.gradle(Module: app) ```
 
-```java
+```
 allprojects {
 		repositories {
 			...
@@ -16,9 +16,9 @@ allprojects {
 ```
 
 
-### And add this to   ```java build.gradle(project:)```
+### And add this to   ``` build.gradle(project:)```
 
-```java
+```
 dependencies {
 	        implementation 'com.github.MahmoudMostafa125:LibRepo:Tag'
 	}
