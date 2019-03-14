@@ -1,10 +1,10 @@
-### library for log message to Your App
+## library for log message to Your App
 
 
-## Integration
+# Integration
 
 
-# Add this dependency to your project
+### Add this dependency to your project
 ```java
 allprojects {
 		repositories {
@@ -15,7 +15,7 @@ allprojects {
 ```
 
 
-## And add this to gradel
+### And add this to gradel
 
 ```java
 dependencies {
