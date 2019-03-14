@@ -1,7 +1,7 @@
 library for log message to Your App
 
 
-##Integration
+## Integration
 
 
 Add this dependency to your project
@@ -15,7 +15,7 @@ allprojects {
 ```
 
 
-##And add this 
+## And add this 
 
 ```gradel
 dependencies {
