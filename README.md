@@ -6,7 +6,7 @@
 
 ### Add this dependency to  ``` build.gradle(Module: app) ```
 
-```
+```java
 allprojects {
 		repositories {
 			...
@@ -18,7 +18,7 @@ allprojects {
 
 ### And add this to   ``` build.gradle(project:)```
 
-```
+```java
 dependencies {
 	        implementation 'com.github.MahmoudMostafa125:LibRepo:Tag'
 	}
